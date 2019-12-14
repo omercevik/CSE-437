@@ -18,7 +18,7 @@ Homework 01 -> Using std::chrono library to run functions in given time point.
     make
     ./main
     
-Homework 02 -> Priority Ceiling Protocol Implementation in C++11 for Linux & Windows
+Homework 02 -> Solving Deadlock Using Priority Ceiling Protocol in C++11 for Linux & Windows
 
     To run in Ubuntu:
     In 161044004 directory
