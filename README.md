@@ -26,3 +26,7 @@ Homework 02 -> Solving Deadlock Using Priority Ceiling Protocol in C++11 for Lin
     make
     sudo su (work in root mode)
     ./main
+    
+    To run in Windows:
+    Create CMake
+    Run in Administrator mode in Visual Studio
